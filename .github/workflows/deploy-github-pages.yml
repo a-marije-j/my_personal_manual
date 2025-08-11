@@ -16,7 +16,7 @@ env:
   NG_USE_Q_AND_A_SEARCH: 'true'
   #
   # Enable Feedback-prompt on Sub-Category and Offer pages (set to 'true' / 'false')
-  NG_USE_FEEDBACK_PROMPT: 'false'
+  NG_USE_FEEDBACK_PROMPT: 'true'
   #
   # Use the language-switcher to switch between Regions (set to 'true' / 'false')
   NG_USE_REGION_PER_LOCALE: 'false'
